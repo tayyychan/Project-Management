@@ -1,7 +1,7 @@
 ## Write your name on its own line:   
 
 Bradly Alicea  
-Taylor Chan
-Shivam Patel    
+Shivam Patel  
 Srikar Manikonda  
-Madison Van
+Madison Van \
+Taylor Chan
